@@ -1,0 +1,118 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 2317 >>
+stream
+BT
+/F1 11 Tf
+50 790 Td
+14 TL
+(# Project Report: StudentHub Dashboard) Tj
+T*
+(## 1. Project Summary) Tj
+T*
+(StudentHub Dashboard is a frontend academic dashboard prototype built with React, Vite, and) Tj
+T*
+(Tailwind CSS. It provides a modern student portal experience for managing coursework,) Tj
+T*
+(attendance, grades, timetable, and profile settings.) Tj
+T*
+(## 2. Objectives) Tj
+T*
+(- Deliver a clean and responsive UI/UX for student workflows.) Tj
+T*
+(- Simulate a realistic academic dashboard without backend dependency.) Tj
+T*
+(- Provide modular components and maintainable project structure.) Tj
+T*
+(## 3. Tech Stack) Tj
+T*
+(- React 19) Tj
+T*
+(- Vite 7) Tj
+T*
+(- Tailwind CSS 3) Tj
+T*
+(- PostCSS + Autoprefixer) Tj
+T*
+(- Lucide React) Tj
+T*
+(## 4. Core Features) Tj
+T*
+(- Authentication flow with sign in/sign up and demo login.) Tj
+T*
+(- Dashboard with academic summary cards.) Tj
+T*
+(- Pages for assignments, lab sessions, timetable, exams, grades, progress tracking,) Tj
+T*
+(notifications, and settings.) Tj
+T*
+(- Local persistence for session and UI preferences using localStorage.) Tj
+T*
+(- UX improvements such as skeleton loading, toasts, modals, and error boundaries.) Tj
+T*
+(## 5. Architecture Overview) Tj
+T*
+(- `src/components/common`: Reusable UI elements.) Tj
+T*
+(- `src/components/layout`: Layout shell and route rendering.) Tj
+T*
+(- `src/pages`: Screen-level views for major modules.) Tj
+T*
+(- `src/services`: Mock API and auth/session storage.) Tj
+T*
+(- `src/context`: Global state management.) Tj
+T*
+(- `src/constants` and `src/data`: Config and mock data.) Tj
+T*
+(## 6. Current Status) Tj
+T*
+(- Frontend prototype is functional and build-ready.) Tj
+T*
+(- Production bundle generation succeeds via `npm run build`.) Tj
+T*
+(- Backend integration and automated testing are planned future steps.) Tj
+T*
+(## 7. Future Enhancements) Tj
+T*
+(- Integrate a real backend and persistent database.) Tj
+T*
+(- Add unit/integration test coverage.) Tj
+T*
+(- Introduce deep-link routing and API-backed widgets.) Tj
+T*
+(- Improve performance through code splitting and bundle optimization.) Tj
+T*
+(## 8. Conclusion) Tj
+T*
+(The StudentHub Dashboard successfully demonstrates a polished UI/UX mini project with) Tj
+T*
+(practical academic workflows and a strong foundation for future full-stack expansion.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000317 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2686
+%%EOF
